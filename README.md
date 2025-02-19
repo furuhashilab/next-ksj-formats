@@ -23,7 +23,7 @@
 
 [GeoArrow 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/L01-24/L01-24.arrow) 14.9MB
 
-[PMTiles 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/L01-24/L01-24.pmtiles) 36.3MB
+[PMTiles 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/L01-24/L01-24.pmtiles) 36.3MB　[PMTiles Viewerで見る](https://pmtiles.io/?url=https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/L01-24/L01-24.pmtiles#map=13.29/35.68753/139.75305)
 
 [GeoPackage 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/L01-24/L01-24.gpkg) 35.4MB
 
@@ -38,7 +38,7 @@
 
 [GeoArrow 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/N03-20240101/N03-20240101.arrow) 229MB
 
-[PMTiles 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/N03-20240101/N03-20240101.pmtiles) 207MB
+[PMTiles 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/N03-20240101/N03-20240101.pmtiles) 207MB　[PMTiles Viewerで見る](https://pmtiles.io/?url=https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/N03-20240101/N03-20240101.pmtiles#map=3.79/38.46/132.29)
 
 [GeoPackage 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/N03-20240101/N03-20240101.gpkg) 263MB
 
@@ -54,7 +54,7 @@
 
 [GeoArrow 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/W05/W05-Stream.arrow) 244MB
 
-[PMTiles 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/W05/W05-Stream.pmtiles) 73.2MB
+[PMTiles 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/W05/W05-Stream.pmtiles) 73.2MB　[PMTiles Viewerで見る](https://pmtiles.io/?url=https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/W05/W05-Stream.pmtiles#map=9.85/35.702/139.7491)
 
 [GeoPackage 形式](https://public-data.geolonia.com/mlit-ksj-vector-2024/sample-data/W05/W05-Stream.gpkg) 349MB
 
