@@ -1,6 +1,6 @@
-本リポジトリは既に終了済の[国土数値情報のファイル形式に関する意見募集](https://github.com/furuhashilab/next-ksj-formats) に有用な情報が集まったので、その後の地理空間情報データ形式に関する状況変化のメモ用に青山学院大学古橋研究室として非公式にForkしました。
+本リポジトリは既に終了済の[国土数値情報のファイル形式に関する意見募集](https://github.com/furuhashilab/next-ksj-formats) に有用な情報が集まったので、その後の地理空間情報データ形式に関する状況変化のメモ用に **青山学院大学古橋研究室として非公式にFork** しました。
 
-Issues は開放しておりますので、気になる議論など自由にお使いください。
+非公式リポジトリの [Issues](https://github.com/furuhashilab/next-ksj-formats/issues) は開放しておりますので、気になる議論など自由にお使いください。
 
 
 ---
